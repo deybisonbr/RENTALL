@@ -1,6 +1,4 @@
 <?php 
 
-// New project
-NOVO
 
 ?>
