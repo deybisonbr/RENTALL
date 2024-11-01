@@ -1,5 +1,6 @@
 <?php
 
+<<<<<<< HEAD
 // require_once __DIR__.'/config/globals.php';
 // require_once __DIR__.'/models/Messages.php';
 
@@ -11,5 +12,9 @@
 // $message = new Message($BASEURL);
 
 // $message->setMessage("Testando mensagens flash", "error", "teste.php")
+=======
+// New project
+Novo
+>>>>>>> feature/LoginScreen
 
 ?>
