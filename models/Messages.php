@@ -16,7 +16,7 @@ class Message
 
     public function setMessage($msg, $type, $redirect = "")
     {
-        $diretoryInitial = "/hub/";
+        $diretoryInitial = "/RENTALL/";
 
         $_SESSION["msg"] = $msg;
         $_SESSION["type"] = $type;
